@@ -1570,6 +1570,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1783523643188",
+      "title": "VPN推荐",
+      "icon": "Network",
+      "description": "推荐靠谱的VPN",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
