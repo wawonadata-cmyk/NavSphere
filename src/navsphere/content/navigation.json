@@ -161,6 +161,15 @@
           "icon": "/assets/favicon_1783921106791.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783921339107_rb1rncyzh",
+          "title": "德国N26 开户全流程",
+          "href": "https://x.com/XiaoyiNote/status/2048038541075316807",
+          "description": "在跨境金融领域，拥有一个欧洲个人IBAN账户是许多朋友的刚需。作为德国数字银行的标杆，N26 凭借10万欧存款保险、无管理费、秒到账的欧元支付以及对中国护照的友好支持，成为了大陆用户“出海”的首选。",
+          "icon": "/assets/favicon_1783921290366.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
