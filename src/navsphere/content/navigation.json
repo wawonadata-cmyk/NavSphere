@@ -262,7 +262,17 @@
       "icon": "LayoutGrid",
       "description": "海外支付平台开通教程",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783921896204_6bt9mrf4k",
+          "title": "Stripe 全网最全使用指南：从入门到榨干",
+          "href": "https://x.com/noahduck283/status/2070718724282458257",
+          "description": "想做出海产品赚美元，第一个卡点就冒出来：Stripe 到底怎么用？能不能直接注册？个人还是公司？美国、香港、新加坡怎么选？Payment Links、Checkout、Billing 先用哪个？钱进了 Stripe，什么时候到银行？退款、争议、税，最后算谁的？",
+          "icon": "/assets/favicon_1783921870469.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
