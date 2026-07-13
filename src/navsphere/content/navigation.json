@@ -308,6 +308,15 @@
           "icon": "/assets/favicon_1783921981712.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783922118604_ubb0pdvh0",
+          "title": "Telegram 全网最全使用指南",
+          "href": "https://x.com/noahduck283/status/2069570117445571061",
+          "description": "Telegram 全网最全使用指南：从入门到榨干",
+          "icon": "/assets/favicon_1783922103411.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
