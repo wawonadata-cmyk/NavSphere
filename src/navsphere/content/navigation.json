@@ -105,6 +105,15 @@
           "icon": "/assets/favicon_1783919738606.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783921442835_d38q2tj21",
+          "title": "自建VPN,零基础节点搭建保姆级图文教程",
+          "href": "https://x.com/zynqorw/status/2075851099811217544",
+          "description": "告别机场卡顿，零基础节点搭建保姆级图文教程，纯小白也能学会",
+          "icon": "/assets/favicon_1783921420053.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
