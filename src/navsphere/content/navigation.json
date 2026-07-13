@@ -380,6 +380,15 @@
           "icon": "/assets/favicon_1783923551085.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923591180_7fi9zkpie",
+          "title": "Reddit 自动化工作流分享",
+          "href": "https://x.com/MindOS_Lisa/status/2062463200705282082",
+          "description": "Reddit 自动化工作流：用 AI 把社区讨论变成可行动信号 ",
+          "icon": "/assets/favicon_1783923578079.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
