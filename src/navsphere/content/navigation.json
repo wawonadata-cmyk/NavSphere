@@ -389,6 +389,15 @@
           "icon": "/assets/favicon_1783923551085.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783935613257_0wsk6n1m8",
+          "title": "手把手教你注册一个超级有用教育edu邮箱 |",
+          "href": "https://www.nitama.de/article/libedu",
+          "description": "手把手教你注册一个超级有用，可薅大量羊毛，并且还有其他用途的edu邮箱",
+          "icon": "/assets/favicon_1783935558477.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
