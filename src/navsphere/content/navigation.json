@@ -317,6 +317,15 @@
           "icon": "/assets/favicon_1783922103411.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923086995_vw0bjzdei",
+          "title": "Reddit 全网最全使用指南：从入门到榨干",
+          "href": "https://x.com/noahduck283/status/2075035259872366786",
+          "description": "Reddit 全网最全使用指南：从入门到榨干",
+          "icon": "/assets/favicon_1783923077849.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
