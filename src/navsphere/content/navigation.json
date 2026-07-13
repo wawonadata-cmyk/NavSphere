@@ -60,6 +60,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ivt03.qytaff.cc",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783919048183_4icm7tf2o",
+          "title": "紅葉",
+          "href": "https://www.xn--qprx60h.site/auth/register?code=3kgDf8Ln",
+          "description": "最低10元/150GB，有独享节点出售",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xn--qprx60h.site",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
