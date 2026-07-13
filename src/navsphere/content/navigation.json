@@ -151,6 +151,15 @@
           "icon": "/assets/favicon_1783921630574.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783921723067_b3n7dj6e7",
+          "title": "giffgaff购买渠道",
+          "href": "https://chirou.ai/item/247",
+          "description": "UK SIM giffgaff 白卡 海外代购（非偏远地区包邮）",
+          "icon": "/assets/favicon_1783921698475.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
