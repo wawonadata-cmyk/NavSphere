@@ -320,6 +320,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1783923012816",
+      "title": "AI工具",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
