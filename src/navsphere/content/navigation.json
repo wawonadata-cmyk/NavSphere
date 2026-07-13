@@ -371,6 +371,15 @@
           "icon": "/assets/favicon_1783923407178.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923558899_s8icxkmfb",
+          "title": "ITIN 保姆级教程｜ChatGPT / Cursor / 美卡 / Stripe / 美股，一个 9 位税号全部打开",
+          "href": "https://x.com/wadezone/status/2057441656547508264",
+          "description": "ITIN 保姆级教程｜ChatGPT / Cursor / 美卡 / Stripe / 美股，一个 9 位税号全部打开",
+          "icon": "/assets/favicon_1783923551085.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
