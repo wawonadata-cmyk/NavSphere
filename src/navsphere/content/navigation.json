@@ -299,7 +299,17 @@
       "icon": "Laptop",
       "description": "其他工具和教程",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783921996835_0yb013hlo",
+          "title": "X创作者收益完全指南",
+          "href": "https://x.com/AI_Jasonyu/status/2022954721548661130",
+          "description": "2026年X创作者收益完全指南：从零到收款的实操保姆级教程，不收藏后悔！",
+          "icon": "/assets/favicon_1783921981712.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
