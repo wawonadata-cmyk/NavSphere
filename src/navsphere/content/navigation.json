@@ -78,6 +78,15 @@
           "icon": "/assets/favicon_1783919266345.jpg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783919471603_3ukxkr8zi",
+          "title": "ef network",
+          "href": "https://666.subef.top/#/login?code=LDg59ohC",
+          "description": "最低8.9元/100GB每月，不限制设备数",
+          "icon": "/assets/favicon_1783919410387.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
