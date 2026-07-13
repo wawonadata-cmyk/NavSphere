@@ -96,6 +96,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ktmcloud.vip",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783919811500_8z576xt97",
+          "title": "极速123",
+          "href": "https://905.jsy902.xyz/#/register?code=xRCN5Jxw",
+          "description": "最低15.99元/200G每月；限制设备3台",
+          "icon": "/assets/favicon_1783919738606.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
