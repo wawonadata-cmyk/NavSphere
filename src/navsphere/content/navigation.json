@@ -398,6 +398,15 @@
           "icon": "/assets/favicon_1783935558477.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783935669177_11ny66wci",
+          "title": "又一家更简单的 .edu 后缀教育邮箱免费注册图文教程",
+          "href": "https://www.nitama.de/article/mariedu",
+          "description": "又一家更简单的可薅羊毛的 .edu 后缀教育邮箱免费注册图文教程",
+          "icon": "/assets/favicon_1783935637481.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
