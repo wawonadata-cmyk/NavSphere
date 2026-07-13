@@ -117,6 +117,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1783920315294",
+      "title": "海外银行卡办理",
+      "icon": "Shield",
+      "description": "海外银行卡办理教程，注意事项",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
