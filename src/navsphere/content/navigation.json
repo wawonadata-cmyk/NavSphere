@@ -143,7 +143,17 @@
       "icon": "Shield",
       "description": "海外银行卡办理教程，注意事项",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783921027734_rrgdc9x1g",
+          "title": "Starryblu 注册图文教程",
+          "href": "https://x.com/zynqorw/status/2074472343951548567",
+          "description": "Starryblu 注册图文教程：熊猫速汇同门的全球账户，支持中国护照 + 大陆地址开户",
+          "icon": "/assets/favicon_1783921008553.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
