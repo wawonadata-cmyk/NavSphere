@@ -162,7 +162,17 @@
       "icon": "Book",
       "description": "海外券商账户办理教程，注意事项",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783921078612_f855saw3o",
+          "title": "Firstrade 第一证券开户图文教程",
+          "href": "https://x.com/zynqorw/status/2063901526666723572",
+          "description": "很多人想买美股、ETF，但被得有美国身份或者得去香港开卡这些门槛劝退了。有一家美国本土券商对大陆用户特别友好，它是Firstrade",
+          "icon": "/assets/favicon_1783921052930.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
