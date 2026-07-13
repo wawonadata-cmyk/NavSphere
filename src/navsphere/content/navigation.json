@@ -224,6 +224,15 @@
           "icon": "/assets/favicon_1783921800732.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923222509_qp1jqzq8q",
+          "title": "Wise 全网最全使用指南",
+          "href": "https://x.com/noahduck283/status/2064860443454423341",
+          "description": "Wise 全网最全使用指南：从开户到榨干",
+          "icon": "/assets/favicon_1783923202603.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
