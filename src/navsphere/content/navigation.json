@@ -1595,6 +1595,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xkmwsa.xn--66tw07h.com",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783918081700_xrdmvao9s",
+          "title": "Bitz Net",
+          "href": "https://red.bnaffred.com/#/register?code=biYgUQmB",
+          "description": "69.99元三个月，每月80GB，不限设备",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=red.bnaffred.com",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
