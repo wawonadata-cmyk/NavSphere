@@ -51,6 +51,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=vip.xn--h5qy75o.vip",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783918886172_8qv10bj85",
+          "title": "青云梯",
+          "href": "https://ivt03.qytaff.cc/register?aff=lO77sf8N",
+          "description": "最低25元/150GB，不限设备",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ivt03.qytaff.cc",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
