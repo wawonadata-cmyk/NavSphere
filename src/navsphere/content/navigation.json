@@ -126,6 +126,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1783920357328",
+      "title": "海外券商账户办理",
+      "icon": "Book",
+      "description": "海外券商账户办理教程，注意事项",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
