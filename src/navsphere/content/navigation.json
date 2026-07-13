@@ -69,6 +69,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.xn--qprx60h.site",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783919340828_9ydxon4js",
+          "title": "龙猫云机场-最具性价比IPLC专线机场",
+          "href": "https://inv06.lmaff01.cc/register?aff=hsLk56DR",
+          "description": "最低15元/100G每月；不限设备",
+          "icon": "/assets/favicon_1783919266345.jpg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
