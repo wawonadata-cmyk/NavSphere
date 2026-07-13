@@ -326,6 +326,15 @@
           "icon": "/assets/favicon_1783923077849.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923159691_hkkxsxaji",
+          "title": "Product Hunt 全网最全使用指南",
+          "href": "https://x.com/noahduck283/status/2071073057075331498",
+          "description": "Product Hunt 全网最全使用指南：从入门到榨干",
+          "icon": "/assets/favicon_1783923141457.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
