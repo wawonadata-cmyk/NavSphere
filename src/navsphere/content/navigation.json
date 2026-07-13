@@ -327,7 +327,17 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783923045805_3nfqnrhhx",
+          "title": "GPT-5.6/Codex 全网最全设置指南：从入门到榨干",
+          "href": "https://x.com/noahduck283/status/2075918039351194009",
+          "description": "GPT-5.6/Codex 全网最全设置指南：从入门到榨干",
+          "icon": "/assets/favicon_1783923033114.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
