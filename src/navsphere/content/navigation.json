@@ -362,6 +362,15 @@
           "icon": "/assets/favicon_1783923141457.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783923414571_doex3pwjn",
+          "title": "新手入金必看！美国银行转账类型指南：ACH、Wire、Zelle 到底什么区别？一篇讲透",
+          "href": "https://x.com/jpgbmp/status/2065117715585757456",
+          "description": "新手入金必看！美国银行转账类型指南：ACH、Wire、Zelle 到底什么区别？一篇讲透",
+          "icon": "/assets/favicon_1783923407178.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
