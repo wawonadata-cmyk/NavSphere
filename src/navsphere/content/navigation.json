@@ -135,6 +135,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1783920412735",
+      "title": "海外支付平台开通教程",
+      "icon": "LayoutGrid",
+      "description": "海外支付平台开通教程",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
