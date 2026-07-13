@@ -87,6 +87,15 @@
           "icon": "/assets/favicon_1783919410387.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783919633667_2hk95wjnb",
+          "title": "Ktm cloud",
+          "href": "https://ktmcloud.vip/#/register?code=T7veaSoI",
+          "description": "13.98元/1024GB每月；",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ktmcloud.vip",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
