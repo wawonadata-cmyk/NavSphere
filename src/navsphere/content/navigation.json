@@ -1577,7 +1577,17 @@
       "icon": "Network",
       "description": "推荐靠谱的VPN",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783916946601_ctm2dox41",
+          "title": "Super Flash",
+          "href": "https://x-superflash.com/#/register?code=XYWf6tVg",
+          "description": "Super Flash VPN；9.8元每个月，500GB流量",
+          "icon": "/assets/favicon_1783916875678.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
