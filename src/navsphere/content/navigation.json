@@ -115,7 +115,17 @@
       "icon": "Coffee",
       "description": "海外电话卡办理，维护教程",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1783920886972_esrfxta7n",
+          "title": "Giffgaff电话卡激活保号教程",
+          "href": "https://x.com/zynqorw/status/2060636997388210429?s=20",
+          "description": "Giffgaff电话卡激活保号教程",
+          "icon": "/assets/favicon_1783920847618.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
