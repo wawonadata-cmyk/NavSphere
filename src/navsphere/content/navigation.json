@@ -153,6 +153,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1783920501918",
+      "title": "其他工具和教程",
+      "icon": "Laptop",
+      "description": "其他工具和教程",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
