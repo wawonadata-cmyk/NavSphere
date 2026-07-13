@@ -1604,6 +1604,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=red.bnaffred.com",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1783918383155_euzqd8r7p",
+          "title": "飞兔云",
+          "href": "https://vip.xn--h5qy75o.vip/#/register?code=ecXX8vIt",
+          "description": "最低9.9元/118GB每个月，15-30个设备",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=vip.xn--h5qy75o.vip",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
