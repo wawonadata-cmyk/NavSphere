@@ -251,6 +251,15 @@
           "icon": "/assets/favicon_1783923333061.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784081693843_t8utmo09d",
+          "title": "小白1分钟完成coinbase注册",
+          "href": "https://x.com/xueqiu88/status/2077047319342772313",
+          "description": "小白1分钟完成coinbase注册",
+          "icon": "/assets/favicon_1784081679083.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
