@@ -114,6 +114,15 @@
           "icon": "/assets/favicon_1783921420053.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1784537537959_3ydj5ubhr",
+          "title": "两条命令，五分钟，无痛搭建自己的静态住宅 IP VPN（新版）",
+          "href": "https://x.com/PardoCat0406/status/2078854274013180245",
+          "description": "两条命令，五分钟，无痛搭建自己的静态住宅 IP VPN（新版）",
+          "icon": "/assets/favicon_1784537521457.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
